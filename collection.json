@@ -1,0 +1,25 @@
+{
+  "utm_album": "utm_source=album&utm_medium=wynk",
+  "utm_song": "utm_source=song&utm_medium=wynk",
+  "srch_erosintl_eros000269": {
+    "wynk_id": "srch_erosintl_eros000269",
+    "wynk_name": "Manmarziyaan",
+    "xstream_name": "Manmarziyaan",
+    "xstream_id": "EROSNOW_MOVIE_6909323",
+    "xstream_category": "Movie"
+  },
+  "srch_saregama_8907210228601": {
+    "wynk_id": "srch_saregama_8907210228601",
+    "wynk_name": "Haseena Parkar",
+    "xstream_name": "Haseena Parkar",
+    "xstream_id": "HUNGAMA_MOVIE_44129902",
+    "xstream_category": "Movie"
+  },
+  "srch_erosintl_eros000267": {
+    "wynk_id": "srch_erosintl_eros000267",
+    "wynk_name": "Happy Phirr Bhag Jayegi",
+    "xstream_name": "Happy Phirr Bhag Jayegi",
+    "xstream_id": "EROSNOW_MOVIE_6903665",
+    "xstream_category": "Movie"
+  }
+}
